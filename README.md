@@ -1,5 +1,5 @@
 - 👋 Hey, I’m @Rythorian77. I'm an experimental software engineer. I worked for the  Department of Defense as a White-Hat to counter cyber attacks. In recent times, I stepped away from that
-and diverted my focus on other projects regarding AI development. 
+and diverted my focus on other projects regarding AI development, & attacking corporations who destroy our earth. We are many...we are anonymous & we are waiting.
 - 👀 I’m interested in all sorts of computer language, especially c# and yes, VB.NET. I have my reasons for VB.NET, mainly because it's quite powerful for particular tasks.
 It may be dead to Microsoft, but not me nor the private development I have added to it.
 - 🌱 I’m currently working with deep learning for AI
