@@ -1,5 +1,5 @@
-- 👋 Hey, I’m Justin. I'm an experimental software engineer & a retired Ethical Hacker. In recent times, I 
- diverted my focus on other projects regarding AI development, & Malware/Ransom-Ware behaviour, which is strictly for educational research only.
+- 👋 Hey, I’m Justin. I'm an experimental software engineer. In recent times, I 
+ diverted my focus on other projects regarding AI development & web development.
 - 👀 I’m interested in all sorts of computer language, especially c#, Batch and yes, VB.NET. I have my reasons for VB.NET, mainly because it's quite powerful for particular tasks. Microsoft couldn't meet the demand to keep VB.Net going because they are failures, so I am picking up their work and developing hybrid techniques.
 It may be dead to Microsoft, but not me nor the private development I have added to it.
 - 🌱 I’m currently working with deep learning, Malware and Ransomware behavior, Web Site Design using HTML, CSS & JavaScript. 
